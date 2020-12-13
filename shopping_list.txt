@@ -4,3 +4,4 @@
 4, shoes
 5, magazine
 6, pencil
+7, rubber
