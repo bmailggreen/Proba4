@@ -1,3 +1,6 @@
 1, bread 
 2, water
 3, coat
+4, shoes
+5, magazine
+6, pencil
