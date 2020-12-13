@@ -5,3 +5,4 @@
 5, magazine
 6, pencil
 7, rubber
+8, guitar
